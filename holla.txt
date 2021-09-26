@@ -1,4 +1,8 @@
 "hai ini testing branch 2"
 
+<<<<<<< HEAD
 
 "Hari ini kudaku berlari kencang --> ditambahkan pada local"
+=======
+"This line is updated using remote, to test the pull function in local before editing in local"
+>>>>>>> b4b33c949d12f170ed10b7993134cf5d50cb60ef

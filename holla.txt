@@ -1,2 +1,4 @@
 "hai ini testing branch 2"
-:
+
+
+"Hari ini kudaku berlari kencang --> ditambahkan pada local"
